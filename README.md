@@ -7,7 +7,7 @@
 Go to the `master` branch [here](https://github.com/el1oo/Lithium-Nuker-V2/releases/tag/nuker)
 
 ## Support
-* [Discord](https://discord.gg/guess)
+* [Discord](https://discord.gg/Lithium)
 
 ## Previews
 Coming soon!
